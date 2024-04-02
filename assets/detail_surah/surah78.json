@@ -1,0 +1,206 @@
+{
+  "data": {
+    "ayat": [
+      {
+        "arabic": "عَمَّ يَتَسَاۤءَلُوْنَۚ ",
+        "latin": "'amma yatasā`alụn",
+        "translation": "Tentang apakah mereka saling bertanya-tanya?"
+      },
+      {
+        "arabic": "عَنِ النَّبَاِ الْعَظِيْمِۙ ",
+        "latin": "'anin-naba`il-'aẓīm",
+        "translation": "Tentang berita yang besar (hari kebangkitan),"
+      },
+      {
+        "arabic": "الَّذِيْ هُمْ فِيْهِ مُخْتَلِفُوْنَۗ ",
+        "latin": "allażī hum fīhi mukhtalifụn",
+        "translation": "yang dalam hal itu mereka berselisih."
+      },
+      {
+        "arabic": "كَلَّا سَيَعْلَمُوْنَۙ ",
+        "latin": "kallā saya'lamụn",
+        "translation": "Tidak! Kelak mereka akan mengetahui,"
+      },
+      {
+        "arabic": "ثُمَّ كَلَّا سَيَعْلَمُوْنَ",
+        "latin": "ṡumma kallā saya'lamụn",
+        "translation": "sekali lagi tidak! Kelak mereka akan mengetahui. "
+      },
+      {
+        "arabic": "اَلَمْ نَجْعَلِ الْاَرْضَ مِهٰدًاۙ",
+        "latin": "a lam naj'alil-arḍa mihādā",
+        "translation": "Bukankah Kami telah menjadikan bumi sebagai hamparan, "
+      },
+      {
+        "arabic": "وَّالْجِبَالَ اَوْتَادًاۖ",
+        "latin": "wal-jibāla autādā",
+        "translation": "dan gunung-gunung sebagai pasak?"
+      },
+      {
+        "arabic": "وَّخَلَقْنٰكُمْ اَزْوَاجًاۙ ",
+        "latin": "wa khalaqnākum azwājā",
+        "translation": "Dan Kami menciptakan kamu berpasang-pasangan,"
+      },
+      {
+        "arabic": "وَّجَعَلْنَا نَوْمَكُمْ سُبَاتًاۙ ",
+        "latin": "wa ja'alnā naumakum subātā",
+        "translation": "dan Kami menjadikan tidurmu untuk istirahat,"
+      },
+      {
+        "arabic": "وَّجَعَلْنَا الَّيْلَ لِبَاسًاۙ ",
+        "latin": "wa ja'alnal-laila libāsā",
+        "translation": "dan Kami menjadikan malam sebagai pakaian,"
+      },
+      {
+        "arabic": "وَّجَعَلْنَا النَّهَارَ مَعَاشًاۚ",
+        "latin": "wa ja'alnan-nahāra ma'āsyā",
+        "translation": "dan Kami menjadikan siang untuk mencari penghidupan,"
+      },
+      {
+        "arabic": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًاۙ ",
+        "latin": "wa banainā fauqakum sab'an syidādā",
+        "translation": "dan Kami membangun di atas kamu tujuh (langit) yang kokoh,"
+      },
+      {
+        "arabic": "وَّجَعَلْنَا سِرَاجًا وَّهَّاجًاۖ",
+        "latin": "wa ja'alnā sirājaw wahhājā",
+        "translation": "dan Kami menjadikan pelita yang terang-benderang (matahari),"
+      },
+      {
+        "arabic": "وَّاَنْزَلْنَا مِنَ الْمُعْصِرٰتِ مَاۤءً ثَجَّاجًاۙ",
+        "latin": "wa anzalnā minal-mu'ṣirāti mā`an ṡajjājā",
+        "translation": "dan Kami turunkan dari awan, air hujan yang tercurah dengan hebatnya,"
+      },
+      {
+        "arabic": "لِّنُخْرِجَ بِهٖ حَبًّا وَّنَبَاتًاۙ",
+        "latin": "linukhrija bihī ḥabbaw wa nabātā",
+        "translation": "untuk Kami tumbuhkan dengan air itu biji-bijian dan tanam-tanaman,"
+      },
+      {
+        "arabic": "وَّجَنّٰتٍ اَلْفَافًاۗ",
+        "latin": "wa jannātin alfāfā",
+        "translation": "dan kebun-kebun yang rindang."
+      },
+      {
+        "arabic": "اِنَّ يَوْمَ الْفَصْلِ كَانَ مِيْقَاتًاۙ",
+        "latin": "inna yaumal-faṣli kāna mīqātā",
+        "translation": "Sungguh, hari keputusan adalah suatu waktu yang telah ditetapkan,"
+      },
+      {
+        "arabic": "يَّوْمَ يُنْفَخُ فِى الصُّوْرِ فَتَأْتُوْنَ اَفْوَاجًاۙ",
+        "latin": "yauma yunfakhu fiṣ-ṣụri fa ta`tụna afwājā",
+        "translation": "(yaitu) pada hari (ketika) sangkakala ditiup, lalu kamu datang berbondong-bondong,"
+      },
+      {
+        "arabic": "وَّفُتِحَتِ السَّمَاۤءُ فَكَانَتْ اَبْوَابًاۙ",
+        "latin": "wa futiḥatis-samā`u fa kānat abwābā",
+        "translation": "dan langit pun dibukalah, maka terdapatlah beberapa pintu,"
+      },
+      {
+        "arabic": "وَّسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًاۗ",
+        "latin": "wa suyyiratil-jibālu fa kānat sarābā",
+        "translation": "dan gunung-gunung pun dijalankan sehingga menjadi fatamorgana."
+      },
+      {
+        "arabic": "اِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًاۙ",
+        "latin": "inna jahannama kānat mirṣādā",
+        "translation": "Sungguh, (neraka) Jahanam itu (sebagai) tempat mengintai (bagi penjaga yang mengawasi isi neraka), "
+      },
+      {
+        "arabic": "لِّلطّٰغِيْنَ مَاٰبًاۙ",
+        "latin": "liṭ-ṭāgīna ma`ābā",
+        "translation": "menjadi tempat kembali bagi orang-orang yang melampaui batas."
+      },
+      {
+        "arabic": "لّٰبِثِيْنَ فِيْهَآ اَحْقَابًاۚ",
+        "latin": "lābiṡīna fīhā aḥqābā",
+        "translation": "Mereka tinggal di sana dalam masa yang lama,"
+      },
+      {
+        "arabic": "لَا يَذُوْقُوْنَ فِيْهَا بَرْدًا وَّلَا شَرَابًاۙ",
+        "latin": "lā yażụqụna fīhā bardaw wa lā syarābā",
+        "translation": "mereka tidak merasakan kesejukan di dalamnya dan tidak (pula mendapat) minuman,"
+      },
+      {
+        "arabic": "اِلَّا حَمِيْمًا وَّغَسَّاقًاۙ",
+        "latin": "illā ḥamīmaw wa gassāqā",
+        "translation": "selain air yang mendidih dan nanah,"
+      },
+      {
+        "arabic": "جَزَاۤءً وِّفَاقًاۗ",
+        "latin": "jazā`aw wifāqā",
+        "translation": "sebagai pembalasan yang setimpal."
+      },
+      {
+        "arabic": "اِنَّهُمْ كَانُوْا لَا يَرْجُوْنَ حِسَابًاۙ",
+        "latin": "innahum kānụ lā yarjụna ḥisābā",
+        "translation": "Sesungguhnya dahulu mereka tidak pernah mengharapkan perhitungan."
+      },
+      {
+        "arabic": "وَّكَذَّبُوْا بِاٰيٰتِنَا كِذَّابًاۗ",
+        "latin": "wa każżabụ bi`āyātinā kiżżābā",
+        "translation": "Dan mereka benar-benar mendustakan ayat-ayat Kami."
+      },
+      {
+        "arabic": "وَكُلَّ شَيْءٍ اَحْصَيْنٰهُ كِتٰبًاۙ",
+        "latin": "wa kulla syai`in aḥṣaināhu kitābā",
+        "translation": "Dan segala sesuatu telah Kami catat dalam suatu Kitab (buku catatan amalan manusia). "
+      },
+      {
+        "arabic": "فَذُوْقُوْا فَلَنْ نَّزِيْدَكُمْ اِلَّا عَذَابًا",
+        "latin": "fa żụqụ fa lan nazīdakum illā 'ażābā",
+        "translation": "Maka karena itu rasakanlah! Maka tidak ada yang akan Kami tambahkan kepadamu selain azab."
+      },
+      {
+        "arabic": "اِنَّ لِلْمُتَّقِيْنَ مَفَازًاۙ",
+        "latin": "inna lil-muttaqīna mafāzā",
+        "translation": "Sungguh, orang-orang yang bertakwa mendapat kemenangan,"
+      },
+      {
+        "arabic": "حَدَاۤىِٕقَ وَاَعْنَابًاۙ",
+        "latin": "ḥadā`iqa wa a'nābā",
+        "translation": "(yaitu) kebun-kebun dan buah anggur,"
+      },
+      {
+        "arabic": "وَّكَوَاعِبَ اَتْرَابًاۙ",
+        "latin": "wa kawā'iba atrābā",
+        "translation": "dan gadis-gadis montok yang sebaya,"
+      },
+      {
+        "arabic": "وَّكَأْسًا دِهَاقًاۗ",
+        "latin": "wa ka`san dihāqā",
+        "translation": "dan gelas-gelas yang penuh (berisi minuman)."
+      },
+      {
+        "arabic": "لَا يَسْمَعُوْنَ فِيْهَا لَغْوًا وَّلَا كِذَّابًا",
+        "latin": "lā yasma'ụna fīhā lagwaw wa lā kiżżābā",
+        "translation": "Di sana mereka tidak mendengar percakapan yang sia-sia maupun (perkataan) dusta."
+      },
+      {
+        "arabic": "جَزَاۤءً مِّنْ رَّبِّكَ عَطَاۤءً حِسَابًاۙ",
+        "latin": "jazā`am mir rabbika 'aṭā`an ḥisābā",
+        "translation": "Sebagai balasan dan pemberian yang cukup banyak dari Tuhanmu,"
+      },
+      {
+        "arabic": "رَّبِّ السَّمٰوٰتِ وَالْاَرْضِ وَمَا بَيْنَهُمَا الرَّحْمٰنِ لَا يَمْلِكُوْنَ مِنْهُ خِطَابًاۚ ",
+        "latin": "rabbis-samāwāti wal-arḍi wa mā bainahumar-raḥmāni lā yamlikụna min-hu khiṭābā",
+        "translation": "Tuhan (yang memelihara) langit dan bumi dan apa yang ada di antara keduanya; Yang Maha Pengasih, mereka tidak mampu berbicara dengan Dia."
+      },
+      {
+        "arabic": "يَوْمَ يَقُوْمُ الرُّوْحُ وَالْمَلٰۤىِٕكَةُ صَفًّاۙ لَّا يَتَكَلَّمُوْنَ اِلَّا مَنْ اَذِنَ لَهُ الرَّحْمٰنُ وَقَالَ صَوَابًا",
+        "latin": "yauma yaqụmur-rụḥu wal-malā`ikatu ṣaffal lā yatakallamụna illā man ażina lahur-raḥmānu wa qāla ṣawābā",
+        "translation": "Pada hari, ketika ruh dan para malaikat berdiri bersaf-saf, mereka tidak berkata-kata, kecuali siapa yang telah diberi izin kepadanya oleh Tuhan Yang Maha Pengasih dan dia hanya mengatakan yang benar."
+      },
+      {
+        "arabic": "ذٰلِكَ الْيَوْمُ الْحَقُّۚ فَمَنْ شَاۤءَ اتَّخَذَ اِلٰى رَبِّهٖ مَاٰبًا",
+        "latin": "żālikal-yaumul-ḥaqq, fa man syā`attakhaża ilā rabbihī ma`ābā",
+        "translation": "Itulah hari yang pasti terjadi. Maka barang siapa menghendaki, niscaya dia menempuh jalan kembali kepada Tuhannya."
+      },
+      {
+        "arabic": "اِنَّآ اَنْذَرْنٰكُمْ عَذَابًا قَرِيْبًا ەۙ يَّوْمَ يَنْظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُوْلُ الْكٰفِرُ يٰلَيْتَنِيْ كُنْتُ تُرَابًا",
+        "latin": "innā anżarnākum 'ażābang qarībay yauma yanẓurul-mar`u mā qaddamat yadāhu wa yaqụlul-kāfiru yā laitanī kuntu turābā",
+        "translation": "Sesungguhnya Kami telah memperingatkan kepadamu (orang kafir) azab yang dekat, pada hari manusia melihat apa yang telah diperbuat oleh kedua tangannya; dan orang kafir berkata, “Alangkah baiknya seandainya dahulu aku jadi tanah.”"
+      }
+    ]
+  }
+}
